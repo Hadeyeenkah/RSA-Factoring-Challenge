@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "factors.h"
 
 void factorize(int n)
 {
